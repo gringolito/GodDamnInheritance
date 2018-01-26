@@ -32,8 +32,8 @@
  * by inheritance how many God Dman Inheritance class you want.
  */
 
-#ifndef FUCKINGTON_FUCKINGTON_H_
-#define FUCKINGTON_FUCKINGTON_H_
+#ifndef GOD_DAMN_INHERITANCE_DAMN_INHERITANCE_H_
+#define GOD_DAMN_INHERITANCE_DAMN_INHERITANCE_H_
 
 #include <iostream>
 
@@ -61,4 +61,4 @@ class MyGodDamnInheritance {
     }
 };
 
-#endif  // FUCKINGTON_FUCKINGTON_H_
+#endif  // GOD_DAMN_INHERITANCE_DAMN_INHERITANCE_H_
