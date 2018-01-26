@@ -1,5 +1,4 @@
-# GodDamnInheritance
-God Damn Inheritance Design Pattern
+# God Damn Inheritance Design Pattern
 
 The God Damn Inheritance desing pattern derives from the Fuckington design
 pattern, but instead of forcing the user to implement a FUCK class that
@@ -20,11 +19,11 @@ methods statics so the GOD\_DAME\_INHERITANCE class can also expose than as
 static methods and the entire code that uses your implementation will look
 like this:
 
-  ```cpp
-  GOD_DAMN_INHERITANCE::DoStuff();
-  GOD_DAMN_INHERITANCE::DoSomething();
-  GOD_DAMN_INHERITANCE::StopDoingThis();
-  ```
+```cpp
+GOD_DAMN_INHERITANCE::DoStuff();
+GOD_DAMN_INHERITANCE::DoSomething();
+GOD_DAMN_INHERITANCE::StopDoingThis();
+```
 
 In the GOD\_DAMN\_INHERITANCE class the user can expose the private methods
 and/or members whatever he wants. The GOD\_DAMN\_INHERITANCE class can combine
